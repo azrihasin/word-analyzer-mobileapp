@@ -11,7 +11,7 @@ Muhammad Azri bin Hasin 1813785
 var vowels = str.split('').filter(c => ['a','e','i', 'o','u'].includes(c)).join('');
 ```
 
-The string passed will split into array which the passed to array filter function. Include araay function the will return only vowel character and joined into string again
+The string passed will split into array which then passed into array filter function. Include array function then will return only vowel character and joined into string again
 
 
 # Consonant
@@ -24,7 +24,7 @@ The string passed will split into array which the passed to array filter functio
  ```
  .length
  ```
- then used to count then length of word that has been passed and consonent/vowel value that has been produced.
+ .length funtion is used to count then length of word that has been passed and consonent/vowel value that has been produced.
  
- * Use state then used to update the state into our current consonent, vowel and character lenght value. 
+ * Use state then used to update the state into our current consonent, vowel and character length value. 
  
