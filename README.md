@@ -24,7 +24,7 @@ The string passed will split into array which then passed into array filter func
  ```
  .length
  ```
- .length funtion is used to count then length of word that has been passed and consonent/vowel value that has been produced.
+ .length funtion is used to count the length of word that has been passed and consonent/vowel value that has been produced.
  
- * Use state then used to update the state into our current consonent, vowel and character length value. 
+ * Use state then used to update the state to our current consonent, vowel and character length value. 
  
